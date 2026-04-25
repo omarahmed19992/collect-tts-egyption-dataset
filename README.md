@@ -239,6 +239,13 @@ Final dataset includes:
 
 ## Limitation
 - If there no diarization for multiple speakers (as podcast for example) 
-- you will need trim silence from audios 
+- you will need trim silence from audios
+
+## 🙏 Acknowledgements
+
+This project makes use of the forced alignment model and Cohere ASR model provided by:
+
+- [MahmoudAshraf/mms-300m-1130-forced-aligner](https://huggingface.co/MahmoudAshraf/mms-300m-1130-forced-aligner)
+- [Cohere ASR](https://huggingface.co/CohereLabs/cohere-transcribe-03-2026) 
 
 ---
